@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>skulogo.jpg</file>
+        <file>f6f43a7990b450c77d84224ff70bf613_w200.gif</file>
+    </qresource>
+    <qresource prefix="/gif's"/>
+</RCC>
